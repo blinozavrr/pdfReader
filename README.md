@@ -18,12 +18,11 @@
 Используйте Git для клонирования проекта:
 ```sh
 # Клонируем репозиторий
-git clone https://github.com/username/UniversityFilterToDB.git
+git clone https://github.com/blinozavrr/pdfReader
 
 # Переходим в папку проекта
-cd UniversityFilterToDB
+cd pdfReader
 ```
-> Замените `username` на имя владельца репозитория.
 
 ### 📂 2. Открытие в IntelliJ IDEA
 
