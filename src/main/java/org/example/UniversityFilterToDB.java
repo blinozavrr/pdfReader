@@ -11,7 +11,7 @@ import java.util.*;
 public class UniversityFilterToDB {
     private static final String DB_URL = "jdbc:postgresql://localhost:5000/postgres";
     private static final String DB_USER = "postgres";
-    private static final String DB_PASSWORD = "mq1strM69!";
+    private static final String DB_PASSWORD = "your_pass";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
